@@ -7,7 +7,7 @@ dependencies = [
     "cosl",
     "cryptography",
     "jsonschema",
-    "ops >=2.18.1",
+    "ops >=2.19.4",
 ]
 
 [dependency-groups]
